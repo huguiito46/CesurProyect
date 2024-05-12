@@ -1,0 +1,1 @@
+select * from webscrapingpersona where ubicacion LIKE '%Madrid%' and permanencia lIKE '%1 año%';

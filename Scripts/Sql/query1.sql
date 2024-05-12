@@ -1,0 +1,1 @@
+select * from webscrapingpersona where compani LIKE '%Accenture%' and encabezado LIKE '%Developer%';
